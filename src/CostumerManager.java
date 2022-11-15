@@ -8,6 +8,6 @@ public class CostumerManager {
     }
     public void add(){
         System.out.println("Musteri Eklendi");
-        logger.Log("Log Mesajı.");
+        this.logger.Log("Log Mesajı.");
     }
 }
